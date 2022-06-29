@@ -1,3 +1,4 @@
+executar os comandos em ordem:
 python server.py "server 1" 4041
 python server.py "server 2" 4042
 python server.py "server 3" 4043
